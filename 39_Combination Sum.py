@@ -11,22 +11,18 @@ class Solution:
                 ans.append(path[:])
 
             for ind, c in enumerate(choices):
-                # choose one element
-                path.append(c)
-
-                cur_sum += c
-
                 # pruning
-                if cur_sum > target:
+                if cur_sum + c <= target:
+                    # choose one element
+                    path.append(c)
+                    cur_sum += c
+
+                    # backtracking
+                    backtrack(path, choices[ind:], cur_sum) #choices[ind:] to remove duplicate ans
+
+                    # revert
                     cur_sum -=c
                     path.pop()
-                    return
-
-                backtrack(path, choices[ind:], cur_sum) #choices[ind:] is used to avoid selecting element from choices[:ind]
-
-                # revert
-                cur_sum -=c
-                path.pop()
 
         backtrack([], candidates, 0)
         return ans
