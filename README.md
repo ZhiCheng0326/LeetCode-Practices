@@ -13,6 +13,8 @@ A repository to record my Leetcode solutions.
 |39| Combination Sum | [Python](./39_Combination%20Sum.py)| Medium
 |40| Combination Sum II | [Python](./40_Combination%20Sum%20II.py)| Medium
 |46| Permutations | [Python](./46_Permutations.py)| Medium
+|47| Permutations II | [Python](./47_Permutations%20II.py)| Medium
+|77| Combinations | [Python](./77_Combinations.py)| Medium
 |78| Subsets | [Python](./78_Subsets.py)| Medium
 
 ## HashTable
