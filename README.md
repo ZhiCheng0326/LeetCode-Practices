@@ -23,6 +23,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |17| Letter Combinations of a Phone Number| [Python](./17_Letter%20Combinations%20of%20a%20Phone%20Number.py)| Medium
 |22| Generate Parentheses|[Python](./22_Generate%20Parentheses.py)| Medium
+|784| Letter Case Permutation|[Python](./784_Letter%20Case%20Permutation.py) | Medium
 
 ## HashTable
 | # | Title |Solution |Difficulty |
