@@ -25,6 +25,16 @@ A repository to record my Leetcode solutions.
 |22| Generate Parentheses|[Python](./22_Generate%20Parentheses.py)| Medium
 |784| Letter Case Permutation|[Python](./784_Letter%20Case%20Permutation.py) | Medium
 
+## Depth-First Search (DFS)
+### Grid type
+| # | Title |Solution |Difficulty |
+|---| ----- | ---------- |---------- |
+|200| Number of Islands| [Python](./200_Number%20of%20Islands.py)| Medium
+|463| Island Perimeter| [Python](./463_Island%20Perimeter.py)| Easy
+|695| Max Area of Island| [Python](./695_Max%20Area%20of%20Island.py)| Medium
+
+
+
 ## HashTable
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
