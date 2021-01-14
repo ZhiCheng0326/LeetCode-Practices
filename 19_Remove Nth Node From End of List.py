@@ -4,37 +4,37 @@
 #         self.val = val
 #         self.next = next
 
-# ## Single traversal method
-# class Solution:
-#     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
-#         dummy = ListNode(0, head)
-#         ptr1 = dummy
-#         ptr2 = head
-
-#         for i in range(n):
-#             ptr2 = ptr2.next
-
-#         while ptr2:
-#             ptr1 = ptr1.next
-#             ptr2 = ptr2.next
-
-#         ptr1.next = ptr1.next.next
-#         return dummy.next
-
-## Stack method
+## Double pointer method, when ptr2 == end of list +1, ptr1.next is the Nth node to be removed 
 class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
         dummy = ListNode(0, head)
-        stack = []
-        cur = dummy
-        while cur:
-            stack.append(cur)
-            cur = cur.next
+        ptr1 = dummy
+        ptr2 = head
 
-        while n >= 0:
-            cur = stack.pop()
-            n-=1
+        for i in range(n):
+            ptr2 = ptr2.next
 
-        cur.next = cur.next.next
+        while ptr2:
+            ptr1 = ptr1.next
+            ptr2 = ptr2.next
 
+        ptr1.next = ptr1.next.next
         return dummy.next
+
+# ## Stack method
+# class Solution:
+#     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
+#         dummy = ListNode(0, head)
+#         stack = []
+#         cur = dummy
+#         while cur:
+#             stack.append(cur)
+#             cur = cur.next
+#
+#         while n >= 0:
+#             cur = stack.pop()
+#             n-=1
+#
+#         cur.next = cur.next.next
+#
+#         return dummy.next
