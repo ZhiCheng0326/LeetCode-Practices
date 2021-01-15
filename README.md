@@ -29,10 +29,11 @@ A repository to record my Leetcode solutions.
 ### Grid type
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|130| Surrounded Regions| [Python](./130_Surrounded%20Regions.py)| Medium
 |200| Number of Islands| [Python](./200_Number%20of%20Islands.py)| Medium
 |463| Island Perimeter| [Python](./463_Island%20Perimeter.py)| Easy
 |695| Max Area of Island| [Python](./695_Max%20Area%20of%20Island.py)| Medium
-
+|733| Flood Fill | [Python](./733_Flood%20Fill.py)| Easy
 
 
 ## HashTable
@@ -46,12 +47,12 @@ A repository to record my Leetcode solutions.
 |55 | Jump Game | [Python](./55_Jump%20Game.py)| Medium
 |56 | Merge Intervals | [Python](./56_Merge%20Intervals.py)| Medium
 
-## Double Pointer
+## Linked List
+
+### Double Pointer
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |15 | 3Sum | [Python](./15_3Sum.py)| Medium
-
-## Linked List
-| # | Title |Solution |Difficulty |
-|---| ----- | ---------- |---------- |
 |19 | Remove Nth Node From End of List | [Python](./19_Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|141 | Linked List Cycle | [Python](./141_Linked%20List%20Cycle.py)| Easy
+|142 | Linked List Cycle II | [Python](./142_Linked%20List%20Cycle%20II.py)| Medium
