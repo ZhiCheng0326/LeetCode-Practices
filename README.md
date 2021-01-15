@@ -4,8 +4,12 @@ A repository to record my Leetcode solutions.
 ## Dynamic Programming
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|5| Longest Palindromic Substring | [Python](./5_Longest%20Palindromic%20Substring.py)| Medium
 |62| Unique Paths | [Python](./62_Unique%20Paths.py)| Medium
 |64| Minimum Path Sum | [Python](./64_Minimum%20Path%20Sum.py)| Medium
+|70| Climbing Stairs | [Python](./70_Climbing%20Stairs.py)| Easy
+|121| Best Time to Buy and Sell Stock | [Python](./121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
+|198| House Robber | [Python](./198_House%20Robber.py)| Easy
 
 ## Backtracking
 ### List type
