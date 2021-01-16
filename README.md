@@ -5,11 +5,13 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |5| Longest Palindromic Substring | [Python](./5_Longest%20Palindromic%20Substring.py)| Medium
+|53| Maximum Subarray | [Python](./53_Maximum%20Subarray.py)| Easy
 |62| Unique Paths | [Python](./62_Unique%20Paths.py)| Medium
 |64| Minimum Path Sum | [Python](./64_Minimum%20Path%20Sum.py)| Medium
 |70| Climbing Stairs | [Python](./70_Climbing%20Stairs.py)| Easy
 |121| Best Time to Buy and Sell Stock | [Python](./121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
 |198| House Robber | [Python](./198_House%20Robber.py)| Easy
+|322| Coin Change | [Python](./322_Coin%20Change.py)| Medium
 
 ## Backtracking
 ### List type
@@ -39,6 +41,10 @@ A repository to record my Leetcode solutions.
 |695| Max Area of Island| [Python](./695_Max%20Area%20of%20Island.py)| Medium
 |733| Flood Fill | [Python](./733_Flood%20Fill.py)| Easy
 
+### Tree type
+| # | Title |Solution |Difficulty |
+|---| ----- | ---------- |---------- |
+|322| Coin Change | [Python](./322_Coin%20Change.py)| Medium
 
 ## HashTable
 | # | Title |Solution |Difficulty |
@@ -50,6 +56,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |55 | Jump Game | [Python](./55_Jump%20Game.py)| Medium
 |56 | Merge Intervals | [Python](./56_Merge%20Intervals.py)| Medium
+|409 | Longest Palindrome | [Python](./409_Longest%20Palindrome.py)| Easy
 
 ## Linked List
 
