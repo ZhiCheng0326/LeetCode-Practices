@@ -11,6 +11,7 @@ A repository to record my Leetcode solutions.
 |70| Climbing Stairs | [Python](./70_Climbing%20Stairs.py)| Easy
 |121| Best Time to Buy and Sell Stock | [Python](./121_Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
 |198| House Robber | [Python](./198_House%20Robber.py)| Easy
+|300| Longest Increasing Subsequence | [Python](./300_Longest%20Increasing%20Subsequence.py)| Medium
 |322| Coin Change | [Python](./322_Coin%20Change.py)| Medium
 
 ## Backtracking
@@ -44,6 +45,9 @@ A repository to record my Leetcode solutions.
 ### Tree type
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|98| Validate Binary Search Tree | [Python](./98_Validate%20Binary%20Search%20Tree.py)| Medium
+|101| Symmetric Tree | [Python](./101_Symmetric%20Tree.py)| Easy
+|104| Maximum Depth of Binary Tree | [Python](./104_Maximum%20Depth%20of%20Binary%20Tree.py)| Easy
 |322| Coin Change | [Python](./322_Coin%20Change.py)| Medium
 
 ## HashTable
@@ -56,6 +60,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |55 | Jump Game | [Python](./55_Jump%20Game.py)| Medium
 |56 | Merge Intervals | [Python](./56_Merge%20Intervals.py)| Medium
+|300| Longest Increasing Subsequence | [Python](./300_Longest%20Increasing%20Subsequence.py)| Medium
 |409 | Longest Palindrome | [Python](./409_Longest%20Palindrome.py)| Easy
 
 ## Linked List
