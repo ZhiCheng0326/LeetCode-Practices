@@ -50,11 +50,6 @@ A repository to record my Leetcode solutions.
 |104| Maximum Depth of Binary Tree | [Python](./104_Maximum%20Depth%20of%20Binary%20Tree.py)| Easy
 |322| Coin Change | [Python](./322_Coin%20Change.py)| Medium
 
-## HashTable
-| # | Title |Solution |Difficulty |
-|---| ----- | ---------- |---------- |
-|1 | Two Sum | [Python](./1_Two%20Sum.py)| Easy
-
 ## Greedy Algorithm
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
@@ -72,3 +67,14 @@ A repository to record my Leetcode solutions.
 |19 | Remove Nth Node From End of List | [Python](./19_Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
 |141 | Linked List Cycle | [Python](./141_Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142_Linked%20List%20Cycle%20II.py)| Medium
+
+## HashTable
+| # | Title |Solution |Difficulty |
+|---| ----- | ---------- |---------- |
+|1 | Two Sum | [Python](./1_Two%20Sum.py)| Easy
+
+## Stack
+| # | Title |Solution |Difficulty |
+|---| ----- | ---------- |---------- |
+|19 | Remove Nth Node From End of List | [Python](./19_Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|394 | Decode String | [Python](./394_Decode%20String.py)| Medium
