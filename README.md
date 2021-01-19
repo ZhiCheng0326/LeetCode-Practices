@@ -59,6 +59,9 @@ A repository to record my Leetcode solutions.
 |409 | Longest Palindrome | [Python](./409_Longest%20Palindrome.py)| Easy
 
 ## Linked List
+| # | Title |Solution |Difficulty |
+|---| ----- | ---------- |---------- |
+|2 | Add Two Numbers | [Python](./2_Add%20Two%20Numbers.py)| Medium
 
 ### Double Pointer
 | # | Title |Solution |Difficulty |
@@ -67,6 +70,7 @@ A repository to record my Leetcode solutions.
 |19 | Remove Nth Node From End of List | [Python](./19_Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
 |141 | Linked List Cycle | [Python](./141_Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142_Linked%20List%20Cycle%20II.py)| Medium
+|206 | Reverse Linked List | [Python](./206_Reverse%20Linked%20List.py)| Easy
 
 ## HashTable
 | # | Title |Solution |Difficulty |
@@ -77,4 +81,5 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |19 | Remove Nth Node From End of List | [Python](./19_Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|206 | Reverse Linked List | [Python](./206_Reverse%20Linked%20List.py)| Easy
 |394 | Decode String | [Python](./394_Decode%20String.py)| Medium
