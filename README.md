@@ -63,11 +63,12 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
 
-### Double Pointer
+## Double Pointer (Linked List or List)
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |15 | 3Sum | [Python](./15.3Sum.py)| Medium
 |19 | Remove Nth Node From End of List | [Python](./19.Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|75 | Sort Colors | [Python](./75.Sort%20Colors.py)| Medium
 |141 | Linked List Cycle | [Python](./141.Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142.Linked%20List%20Cycle%20II.py)| Medium
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
