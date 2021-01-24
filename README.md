@@ -68,7 +68,9 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |15 | 3Sum | [Python](./15.3Sum.py)| Medium
 |19 | Remove Nth Node From End of List | [Python](./19.Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|26 | Remove Duplicates from Sorted Array | [Python](./26.Remove%20Duplicates%20from%20Sorted%20Array.py)| Easy
 |75 | Sort Colors | [Python](./75.Sort%20Colors.py)| Medium
+|88 | Merge Sorted Array | [Python](./88.Merge%20Sorted%20Array.py)| Easy
 |141 | Linked List Cycle | [Python](./141.Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142.Linked%20List%20Cycle%20II.py)| Medium
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
@@ -89,6 +91,7 @@ A repository to record my Leetcode solutions.
 ## Binary Search
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|14 | Longest Common Prefix | [Python](./14.Longest%20Common%20Prefix.py)| Easy
 |33 | Search in Rotated Sorted Array | [Python](./33.Search%20in%20Rotated%20Sorted%20Array.py)| Medium
 |34 | Find First and Last Position of Element in Sorted Array | [Python](./34.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.py)| Medium
 
