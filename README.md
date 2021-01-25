@@ -56,6 +56,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |55 | Jump Game | [Python](./55.Jump%20Game.py)| Medium
 |56 | Merge Intervals | [Python](./56.Merge%20Intervals.py)| Medium
+|122| Best Time to Buy and Sell Stock II | [Python](./122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Easy
 |300| Longest Increasing Subsequence | [Python](./300.Longest%20Increasing%20Subsequence.py)| Medium
 |409 | Longest Palindrome | [Python](./409.Longest%20Palindrome.py)| Easy
 
