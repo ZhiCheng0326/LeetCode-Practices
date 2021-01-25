@@ -10,6 +10,7 @@ A repository to record my Leetcode solutions.
 |64| Minimum Path Sum | [Python](./64.Minimum%20Path%20Sum.py)| Medium
 |70| Climbing Stairs | [Python](./70.Climbing%20Stairs.py)| Easy
 |121| Best Time to Buy and Sell Stock | [Python](./121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
+|122| Best Time to Buy and Sell Stock II | [Python](./122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Easy
 |198| House Robber | [Python](./198.House%20Robber.py)| Easy
 |300| Longest Increasing Subsequence | [Python](./300.Longest%20Increasing%20Subsequence.py)| Medium
 |322| Coin Change | [Python](./322.Coin%20Change.py)| Medium
@@ -63,7 +64,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
 
-## Double Pointer (Linked List or List)
+## Double Pointer (Linked List / List / String)
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |15 | 3Sum | [Python](./15.3Sum.py)| Medium
@@ -74,6 +75,7 @@ A repository to record my Leetcode solutions.
 |141 | Linked List Cycle | [Python](./141.Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142.Linked%20List%20Cycle%20II.py)| Medium
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
+|344 | Reverse String | [Python](./344.Reverse%20String.py)| Easy
 
 ## HashTable
 | # | Title |Solution |Difficulty |
