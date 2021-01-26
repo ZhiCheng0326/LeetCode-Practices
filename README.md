@@ -60,10 +60,12 @@ A repository to record my Leetcode solutions.
 |300| Longest Increasing Subsequence | [Python](./300.Longest%20Increasing%20Subsequence.py)| Medium
 |409 | Longest Palindrome | [Python](./409.Longest%20Palindrome.py)| Easy
 
-## Linked List
+## Linked List / List
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
+|21 | Contains Duplicate | [Python](./21.Contains%20Duplicate.py)| Easy
+|61 | Rotate List | [Python](./61.Rotate%20List.py)| Medium
 
 ## Double Pointer (Linked List / List / String)
 | # | Title |Solution |Difficulty |
@@ -82,6 +84,7 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |1 | Two Sum | [Python](./1.Two%20Sum.py)| Easy
+|21 | Contains Duplicate | [Python](./21.Contains%20Duplicate.py)| Easy
 
 ## Stack
 | # | Title |Solution |Difficulty |
