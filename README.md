@@ -104,5 +104,6 @@ A repository to record my Leetcode solutions.
 ## Others
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|3 | Longest Substring Without Repeating Characters | [Python](./3.Longest%20Substring%20Without%20Repeating%20Characters.py)| Medium
 |7 | Reverse Integer | [Python](./7.Reverse%20Integer.py)| Easy
 |9 | Palindrome Number | [Python](./9.Palindrome%20Number.py)| Easy
