@@ -64,7 +64,8 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
-|21 | Contains Duplicate | [Python](./21.Contains%20Duplicate.py)| Easy
+|21 | Merge Two Sorted Lists | [Python](./21.Merge%20Two%20Sorted%20Lists.py)| Easy
+|217 | Contains Duplicate | [Python](./217.Contains%20Duplicate.py)| Easy
 |61 | Rotate List | [Python](./61.Rotate%20List.py)| Medium
 
 ## Double Pointer (Linked List / List / String)
@@ -84,12 +85,13 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |1 | Two Sum | [Python](./1.Two%20Sum.py)| Easy
-|21 | Contains Duplicate | [Python](./21.Contains%20Duplicate.py)| Easy
+|217 | Contains Duplicate | [Python](./217.Contains%20Duplicate.py)| Easy
 
 ## Stack
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |19 | Remove Nth Node From End of List | [Python](./19.Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
+|20 | Valid Parentheses | [Python](./20.Valid%20Parentheses.py)| Easy
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
 |394 | Decode String | [Python](./394.Decode%20String.py)| Medium
 |739 | Daily Temperatures | [Python](./739.Daily%20Temperatures.py)| Medium
@@ -107,3 +109,4 @@ A repository to record my Leetcode solutions.
 |3 | Longest Substring Without Repeating Characters | [Python](./3.Longest%20Substring%20Without%20Repeating%20Characters.py)| Medium
 |7 | Reverse Integer | [Python](./7.Reverse%20Integer.py)| Easy
 |9 | Palindrome Number | [Python](./9.Palindrome%20Number.py)| Easy
+|136 | Single Number | [Python](./136.Single%20Number.py)| Easy
