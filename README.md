@@ -92,6 +92,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |19 | Remove Nth Node From End of List | [Python](./19.Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
 |20 | Valid Parentheses | [Python](./20.Valid%20Parentheses.py)| Easy
+|155 | Min Stack | [Python](./155.Min%20Stack.py)| Easy
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
 |394 | Decode String | [Python](./394.Decode%20String.py)| Medium
 |739 | Daily Temperatures | [Python](./739.Daily%20Temperatures.py)| Medium
