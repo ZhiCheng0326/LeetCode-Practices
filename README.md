@@ -49,6 +49,7 @@ A repository to record my Leetcode solutions.
 |98| Validate Binary Search Tree | [Python](./98.Validate%20Binary%20Search%20Tree.py)| Medium
 |101| Symmetric Tree | [Python](./101.Symmetric%20Tree.py)| Easy
 |104| Maximum Depth of Binary Tree | [Python](./104.Maximum%20Depth%20of%20Binary%20Tree.py)| Easy
+|226| Invert Binary Tree | [Python](./226.Invert%20Binary%20Tree.py)| Easy
 |322| Coin Change | [Python](./322.Coin%20Change.py)| Medium
 
 ## Greedy Algorithm
@@ -65,6 +66,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
 |21 | Merge Two Sorted Lists | [Python](./21.Merge%20Two%20Sorted%20Lists.py)| Easy
+|169 | Majority Element | [Python](./169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./217.Contains%20Duplicate.py)| Easy
 |61 | Rotate List | [Python](./61.Rotate%20List.py)| Medium
 
@@ -78,13 +80,16 @@ A repository to record my Leetcode solutions.
 |88 | Merge Sorted Array | [Python](./88.Merge%20Sorted%20Array.py)| Easy
 |141 | Linked List Cycle | [Python](./141.Linked%20List%20Cycle.py)| Easy
 |142 | Linked List Cycle II | [Python](./142.Linked%20List%20Cycle%20II.py)| Medium
+|160 | Intersection of Two Linked Lists | [Python](./160.Intersection%20of%20Two%20Linked%20Lists.py)| Easy
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
+|234 | Palindrome Linked List | [Python](./234.Palindrome%20Linked%20List.py)| Easy
 |344 | Reverse String | [Python](./344.Reverse%20String.py)| Easy
 
 ## HashTable
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |1 | Two Sum | [Python](./1.Two%20Sum.py)| Easy
+|169 | Majority Element | [Python](./169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./217.Contains%20Duplicate.py)| Easy
 
 ## Stack
