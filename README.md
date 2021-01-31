@@ -51,6 +51,8 @@ A repository to record my Leetcode solutions.
 |104| Maximum Depth of Binary Tree | [Python](./104.Maximum%20Depth%20of%20Binary%20Tree.py)| Easy
 |226| Invert Binary Tree | [Python](./226.Invert%20Binary%20Tree.py)| Easy
 |322| Coin Change | [Python](./322.Coin%20Change.py)| Medium
+|543| Diameter of Binary Tree | [Python](./543.Diameter%20of%20Binary%20Tree.py)| Easy
+|617| Merge Two Binary Trees | [Python](./617.Merge%20Two%20Binary%20Trees.py)| Easy
 
 ## Greedy Algorithm
 | # | Title |Solution |Difficulty |
@@ -66,9 +68,10 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./2.Add%20Two%20Numbers.py)| Medium
 |21 | Merge Two Sorted Lists | [Python](./21.Merge%20Two%20Sorted%20Lists.py)| Easy
+|61 | Rotate List | [Python](./61.Rotate%20List.py)| Medium
 |169 | Majority Element | [Python](./169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./217.Contains%20Duplicate.py)| Easy
-|61 | Rotate List | [Python](./61.Rotate%20List.py)| Medium
+|448 | Find All Numbers Disappeared in an Array | [Python](./448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)| Easy
 
 ## Double Pointer (Linked List / List / String)
 | # | Title |Solution |Difficulty |
@@ -83,6 +86,7 @@ A repository to record my Leetcode solutions.
 |160 | Intersection of Two Linked Lists | [Python](./160.Intersection%20of%20Two%20Linked%20Lists.py)| Easy
 |206 | Reverse Linked List | [Python](./206.Reverse%20Linked%20List.py)| Easy
 |234 | Palindrome Linked List | [Python](./234.Palindrome%20Linked%20List.py)| Easy
+|283 | Move Zeroes | [Python](./283.Move%20Zeroes.py)| Easy
 |344 | Reverse String | [Python](./344.Reverse%20String.py)| Easy
 
 ## HashTable
@@ -116,3 +120,4 @@ A repository to record my Leetcode solutions.
 |7 | Reverse Integer | [Python](./7.Reverse%20Integer.py)| Easy
 |9 | Palindrome Number | [Python](./9.Palindrome%20Number.py)| Easy
 |136 | Single Number | [Python](./136.Single%20Number.py)| Easy
+|461 | Hamming Distance | [Python](./461.Hamming%20Distance.py)| Easy
