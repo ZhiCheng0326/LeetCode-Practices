@@ -68,6 +68,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |2 | Add Two Numbers | [Python](./solutions/2.Add%20Two%20Numbers.py)| Medium
 |21 | Merge Two Sorted Lists | [Python](./solutions/21.Merge%20Two%20Sorted%20Lists.py)| Easy
+|54 | Spiral Matrix | [Python](./solutions/54.Spiral%20Matrix.py)| Medium
 |61 | Rotate List | [Python](./solutions/61.Rotate%20List.py)| Medium
 |169 | Majority Element | [Python](./solutions/169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./solutions/217.Contains%20Duplicate.py)| Easy
