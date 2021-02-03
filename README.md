@@ -79,6 +79,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |11 | Container With Most Water | [Python](./solutions/11.Container%20With%20Most%20Water.py)| Medium
 |15 | 3Sum | [Python](./solutions/15.3Sum.py)| Medium
+|16 | 3Sum Closest | [Python](./solutions/16.3Sum%20Closest.py)| Medium
 |19 | Remove Nth Node From End of List | [Python](./solutions/19.Remove%20Nth%20Node%20From%20End%20of%20List.py)| Medium
 |26 | Remove Duplicates from Sorted Array | [Python](./solutions/26.Remove%20Duplicates%20from%20Sorted%20Array.py)| Easy
 |75 | Sort Colors | [Python](./solutions/75.Sort%20Colors.py)| Medium
