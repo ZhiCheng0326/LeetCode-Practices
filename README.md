@@ -70,6 +70,7 @@ A repository to record my Leetcode solutions.
 |21 | Merge Two Sorted Lists | [Python](./solutions/21.Merge%20Two%20Sorted%20Lists.py)| Easy
 |54 | Spiral Matrix | [Python](./solutions/54.Spiral%20Matrix.py)| Medium
 |61 | Rotate List | [Python](./solutions/61.Rotate%20List.py)| Medium
+|146 | LRU Cache | [Python](./solutions/146.LRU%20Cache.py)| Medium
 |169 | Majority Element | [Python](./solutions/169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./solutions/217.Contains%20Duplicate.py)| Easy
 |448 | Find All Numbers Disappeared in an Array | [Python](./solutions/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)| Easy
@@ -97,6 +98,7 @@ A repository to record my Leetcode solutions.
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
 |1 | Two Sum | [Python](./solutions/1.Two%20Sum.py)| Easy
+|146 | LRU Cache | [Python](./solutions/146.LRU%20Cache.py)| Medium
 |169 | Majority Element | [Python](./solutions/169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./solutions/217.Contains%20Duplicate.py)| Easy
 
