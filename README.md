@@ -73,6 +73,7 @@ A repository to record my Leetcode solutions.
 |146 | LRU Cache | [Python](./solutions/146.LRU%20Cache.py)| Medium
 |169 | Majority Element | [Python](./solutions/169.Majority%20Element.py)| Easy
 |217 | Contains Duplicate | [Python](./solutions/217.Contains%20Duplicate.py)| Easy
+|237 | Delete Node in a Linked List | [Python](./solutions/237.Delete%20Node%20in%20a%20Linked%20List.py)| Easy
 |448 | Find All Numbers Disappeared in an Array | [Python](./solutions/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)| Easy
 
 ## Double Pointer (Linked List / List / String)
@@ -93,6 +94,7 @@ A repository to record my Leetcode solutions.
 |234 | Palindrome Linked List | [Python](./solutions/234.Palindrome%20Linked%20List.py)| Easy
 |283 | Move Zeroes | [Python](./solutions/283.Move%20Zeroes.py)| Easy
 |344 | Reverse String | [Python](./solutions/344.Reverse%20String.py)| Easy
+|557 | Reverse Words in a String III | [Python](./solutions/557.Reverse%20Words%20in%20a%20String%20III.py)| Easy
 
 ## HashTable
 | # | Title |Solution |Difficulty |
