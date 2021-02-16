@@ -69,6 +69,7 @@ A repository to record my Leetcode solutions.
 |2 | Add Two Numbers | [Python](./solutions/2.Add%20Two%20Numbers.py)| Medium
 |21 | Merge Two Sorted Lists | [Python](./solutions/21.Merge%20Two%20Sorted%20Lists.py)| Easy
 |54 | Spiral Matrix | [Python](./solutions/54.Spiral%20Matrix.py)| Medium
+|59 | Spiral Matrix II | [Python](./solutions/59.Spiral%20Matrix%20II.py)| Medium
 |61 | Rotate List | [Python](./solutions/61.Rotate%20List.py)| Medium
 |146 | LRU Cache | [Python](./solutions/146.LRU%20Cache.py)| Medium
 |169 | Majority Element | [Python](./solutions/169.Majority%20Element.py)| Easy
@@ -128,4 +129,6 @@ A repository to record my Leetcode solutions.
 |7 | Reverse Integer | [Python](./solutions/7.Reverse%20Integer.py)| Easy
 |9 | Palindrome Number | [Python](./solutions/9.Palindrome%20Number.py)| Easy
 |136 | Single Number | [Python](./solutions/136.Single%20Number.py)| Easy
+|231 | Power of Two | [Python](./solutions/231.Power%20of%20Two.py)| Easy
+|292 | Nim Game | [Python](./solutions/292.Nim%20Game.py)| Easy
 |461 | Hamming Distance | [Python](./solutions/461.Hamming%20Distance.py)| Easy
