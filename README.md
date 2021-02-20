@@ -77,6 +77,7 @@ A repository to record my Leetcode solutions.
 |217 | Contains Duplicate | [Python](./solutions/217.Contains%20Duplicate.py)| Easy
 |237 | Delete Node in a Linked List | [Python](./solutions/237.Delete%20Node%20in%20a%20Linked%20List.py)| Easy
 |238 | Product of Array Except Self | [Python](./solutions/238.Product%20of%20Array%20Except%20Self.py)| Medium
+|347 | Top K Frequent Elements | [Python](./solutions/347.Top%20K%20Frequent%20Elements.py)| Medium
 |448 | Find All Numbers Disappeared in an Array | [Python](./solutions/448.Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py)| Easy
 
 ## Double Pointer (Linked List / List / String)
