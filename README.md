@@ -37,6 +37,7 @@ A repository to record my Leetcode solutions.
 ### Grid type
 | # | Title |Solution |Difficulty |
 |---| ----- | ---------- |---------- |
+|79| Word Search | [Python](./solutions/79.Word%20Search.py)| Medium
 |130| Surrounded Regions| [Python](./solutions/130.Surrounded%20Regions.py)| Medium
 |200| Number of Islands| [Python](./solutions/200.Number%20of%20Islands.py)| Medium
 |463| Island Perimeter| [Python](./solutions/463.Island%20Perimeter.py)| Easy
