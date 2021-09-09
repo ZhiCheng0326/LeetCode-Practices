@@ -10,7 +10,7 @@ A repository to record my Leetcode solutions.
 |64| Minimum Path Sum | [Python](./solutions/64.Minimum%20Path%20Sum.py)| Medium
 |70| Climbing Stairs | [Python](./solutions/70.Climbing%20Stairs.py)| Easy
 |121| Best Time to Buy and Sell Stock | [Python](./solutions/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
-|122| Best Time to Buy and Sell Stock II | [Python](./solutions/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Easy
+|122| Best Time to Buy and Sell Stock II | [Python](./solutions/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Medium
 |198| House Robber | [Python](./solutions/198.House%20Robber.py)| Easy
 |300| Longest Increasing Subsequence | [Python](./solutions/300.Longest%20Increasing%20Subsequence.py)| Medium
 |322| Coin Change | [Python](./solutions/322.Coin%20Change.py)| Medium
@@ -60,7 +60,7 @@ A repository to record my Leetcode solutions.
 |---| ----- | ---------- |---------- |
 |55 | Jump Game | [Python](./solutions/55.Jump%20Game.py)| Medium
 |56 | Merge Intervals | [Python](./solutions/56.Merge%20Intervals.py)| Medium
-|122| Best Time to Buy and Sell Stock II | [Python](./solutions/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Easy
+|122| Best Time to Buy and Sell Stock II | [Python](./solutions/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Medium
 |300| Longest Increasing Subsequence | [Python](./solutions/300.Longest%20Increasing%20Subsequence.py)| Medium
 |409 | Longest Palindrome | [Python](./solutions/409.Longest%20Palindrome.py)| Easy
 
