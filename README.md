@@ -11,7 +11,7 @@ A repository to record my Leetcode solutions.
 |70| Climbing Stairs | [Python](./solutions/70.Climbing%20Stairs.py)| Easy
 |121| Best Time to Buy and Sell Stock | [Python](./solutions/121.Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)| Easy
 |122| Best Time to Buy and Sell Stock II | [Python](./solutions/122.Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.py)| Medium
-|198| House Robber | [Python](./solutions/198.House%20Robber.py)| Easy
+|198| House Robber | [Python](./solutions/198.House%20Robber.py)| Medium
 |300| Longest Increasing Subsequence | [Python](./solutions/300.Longest%20Increasing%20Subsequence.py)| Medium
 |322| Coin Change | [Python](./solutions/322.Coin%20Change.py)| Medium
 
